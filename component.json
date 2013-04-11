@@ -1,5 +1,5 @@
 {
-	"name": "class-js",
+	"name": "Class.js",
 	"version": "1.0.0",
 	"main": "./Class.js",
 	"description": "Simple JavaScript Inheritance",
