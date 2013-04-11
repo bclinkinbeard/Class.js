@@ -3,5 +3,6 @@
 	"version": "1.0.0",
 	"main": "./Class.js",
 	"description": "Simple JavaScript Inheritance",
-	"homepage": "http://ejohn.org/blog/simple-javascript-inheritance/"
+	"homepage": "http://ejohn.org/blog/simple-javascript-inheritance/",
+	"dependencies": {}
 }
